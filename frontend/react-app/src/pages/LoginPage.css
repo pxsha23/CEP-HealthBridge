@@ -1,0 +1,123 @@
+
+/* Make sure the body and html take full height */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Prevent any global layout issues */
+  #root {
+    height: 100%;
+  }
+  
+  /* Full page centering and white background */
+/* .login-container {
+    height: 100vh;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', sans-serif;
+  } */
+  .login-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  
+  /* Form box styling */
+  .login-form {
+    background-color: #a5ecdd;
+    padding: 2rem;
+    border-radius: 8px;
+    width: 350px;
+    box-shadow: 0 0 10px rgba(189, 187, 187, 0.3);
+  }
+  
+  /* Heading */
+  .login-form h2 {
+    margin-bottom: 20px;
+    text-align: center;
+    color: #fdfd57;
+  }
+  
+  /* Label styling */
+  .login-form label {
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    color: #333;
+    font-weight: 600;
+  }
+  
+  /* Input field styling */
+  .login-form input {
+    width: 100%;
+    padding: 10px;
+    background-color: #c2b9b9;
+    color: rgb(161, 149, 149);
+    border: none;
+    border-radius: 4px;
+  }
+  
+  /* Login button styling */
+  .login-form button {
+    width: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    background-color: #ffdb49;
+    color: rgb(252, 249, 249);
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .login-form button:hover {
+    background-color: #dea71c;
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

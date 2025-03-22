@@ -1,0 +1,52 @@
+CEPHealthBridge/
+└── frontend/
+    ├── index.html
+    ├── login.html
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── main.js
+
+
+backend/
+├── config/
+│   └── db.js
+├── routes/
+│   └── auth.js
+├── .env
+├── server.js
+
+
+
+CEPHealthBridge/
+  backend/
+    ├── server.js
+    ├── package.json
+    ├── .env
+    ├── config/
+    │     └── dbConfig.js
+    ├── routes/
+    │     └── userRoutes.js
+    └── controllers/
+          └── userController.js
+
+
+
+CEPHealthBridge/
+└── frontend/
+    ├── react-app/
+    │   ├── src/
+    │   │   ├── pages/
+    │   │   │   └── LoginReact.jsx
+    │   │   ├── App.jsx
+    │   │   ├── main.jsx
+    │   │   └── index.css
+    │   ├── index.html
+    │   └── vite.config.js
+    └── static-site/
+        ├── index.html
+        ├── login.html
+        ├── css/
+        │   └── style.css
+        └── js/
+            └── main.js
