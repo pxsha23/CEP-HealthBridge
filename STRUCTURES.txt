@@ -1,24 +1,4 @@
 CEPHealthBridge/
-└── frontend/
-    ├── index.html
-    ├── login.html
-    ├── css/
-    │   └── style.css
-    └── js/
-        └── main.js
-
-
-backend/
-├── config/
-│   └── db.js
-├── routes/
-│   └── auth.js
-├── .env
-├── server.js
-
-
-
-CEPHealthBridge/
   backend/
     ├── server.js
     ├── package.json
@@ -29,8 +9,6 @@ CEPHealthBridge/
     │     └── userRoutes.js
     └── controllers/
           └── userController.js
-
-
 
 CEPHealthBridge/
 └── frontend/
@@ -50,3 +28,12 @@ CEPHealthBridge/
         │   └── style.css
         └── js/
             └── main.js
+//this is the reference file for the ui of the website
+CEPHealthBridge/
+└── frontend/static-site
+    ├── index.html
+    ├── login.html
+    ├── css/
+    │   └── style.css
+    └── js/
+        └── main.js
